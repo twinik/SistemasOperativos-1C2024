@@ -25,9 +25,6 @@ Nota: Chequear direcciones IP en los configs si se levantan diferentes computado
 Se recomienda utilizar la siguiente herramienta provista por la catedra, que facilita el proceso de deployment: https://github.com/sisoputnfrba/so-deploy
 
 ## Links útiles
-
-| Links |
-|-------------------|
-| [Enunciado](https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec/edit?usp=sharing) |
-| [Documento de pruebas](https://docs.google.com/document/d/1XsBsJynoN5A9PTsTEaZsj0q3zsEtcnLgdAHOQ4f_4-g/edit)  |
-| [VM de la cátedra](https://docs.utnso.com.ar/recursos/vms) |
+- [Enunciado](https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec/edit?usp=sharing)
+- [Documento de pruebas](https://docs.google.com/document/d/1XsBsJynoN5A9PTsTEaZsj0q3zsEtcnLgdAHOQ4f_4-g/edit)
+- [VM de la cátedra](https://docs.utnso.com.ar/recursos/vms)
