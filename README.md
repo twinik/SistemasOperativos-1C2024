@@ -1,12 +1,12 @@
 # TP Sistemas Operativos - 1er Cuatrimestre 2024
 
-### Simulación de un sistema operativo distribuido en 4 módulos:
+### Simulación de un sistema operativo distribuido en 4 módulos
 - CPU
 - Kernel
 - Memoria
 - Entradasalida (interfaces E/S y File System)
 
-### Features:
+### Features
 - Algoritmos de planificacion: FIFO, Round Robin y Virtual Round Robin
 - Memoria con esquema de Paginación Simple
 - TLB
@@ -30,4 +30,4 @@ Se recomienda utilizar la siguiente herramienta provista por la catedra, que fac
 |-------------------|
 | [Enunciado](https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec/edit?usp=sharing) |
 | [Documento de pruebas](https://docs.google.com/document/d/1XsBsJynoN5A9PTsTEaZsj0q3zsEtcnLgdAHOQ4f_4-g/edit)  |
-| [VM de la Cátedra](https://docs.utnso.com.ar/recursos/vms) |
+| [VM de la cátedra](https://docs.utnso.com.ar/recursos/vms) |
